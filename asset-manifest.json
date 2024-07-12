@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fec345ec.css",
-    "main.js": "/static/js/main.95e26ef9.js",
+    "main.js": "/static/js/main.0e94d130.js",
     "static/media/disc.mp4": "/static/media/disc.d8cd22a016ad9b933fc4.mp4",
     "static/media/silicone.mp4": "/static/media/silicone.8d2fab12ba68f2b8759d.mp4",
     "static/media/portrait.avif": "/static/media/portrait.e7ad89ee1a9fd3b63425.avif",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.fec345ec.css",
-    "static/js/main.95e26ef9.js"
+    "static/js/main.0e94d130.js"
   ]
 }
